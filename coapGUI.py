@@ -46,9 +46,8 @@ def main():
     app.exec_()
 
 
-
-
 path=[
+".well-known/core",
 "CAN/AEC/State",
 "CAN/AEC/SoC_pct",
 "CAN/AEC/Errors",
